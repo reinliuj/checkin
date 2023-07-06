@@ -40,7 +40,7 @@ const notify = async (contents) => {
       token,
       title: contents[0],
       content: contents.join('<br>'),
-      template: 'markdown',
+      template: 'html',
     }),
   })
 }

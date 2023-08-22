@@ -2,7 +2,7 @@
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
-([GLaDOS][glados] 可用邀请码: `MGCC6-K08LU-NEFQA-SGWSP`, 双方都有奖励天数)
+([GLaDOS][glados] 可用邀请码: `DHZ8T-AOJ8W-6MFF8-TVLV0`, 双方都有奖励天数)
 
 ## 使用说明
 
